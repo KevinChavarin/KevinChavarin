@@ -1,13 +1,13 @@
 # Hello! I'm Kevin Chavarin 👋
 ### Web Developer 
 ___
-[![GitHub Streak](https://streak-stats.demolab.com?user=KevinChavarin&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
-
 
 ## About Me
-I'm a developer passionate about technology and innovation I love to make things happen, from an idea to something we can see and experience.
-<br>
-
+I'm a developer with a programming degree passionate about technology and innovation I love to make things happen, from an idea to something we can see and experience.
+<br><br>
+I have 3 years of developing experience with personal, school and internship projects focusing on creating accesible, clean and SEO-optimized interfaces with a strong focus on performance optimization which is essential for mantaining high quality score for websites.
+<br><br>
+I strongly believe in the sustainable software engineering so I prioritize clean code practices to optimize infraestructure costs.
 ___
 
 ## Technologies I've used
@@ -43,6 +43,8 @@ ___
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="ai logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
   <img width="12" />
 </p>
 
