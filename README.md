@@ -20,6 +20,10 @@ ___
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="ts logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
